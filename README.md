@@ -1,5 +1,5 @@
 # Welcome to my GitHub profile!
-## My name is Szczepan and I am a programming enthusiast with a passion for learning and improving my skills. I am currently learning Python and am excited to apply my skills in a professional setting. In addition to programming, I am also interested in history and sports.
+### My name is Szczepan and I am a programming enthusiast with a passion for learning and improving my skills. I am currently learning Python and am excited to apply my skills in a professional setting. In addition to programming, I am also interested in history and sports.
 ### My skills:
 1. Python: ⭐⭐⭐⭐
 - Pandas
@@ -18,7 +18,7 @@
 [link](www.google.com)
 
 ### Contact:
-szczepanspl@gmail.com
+📧 szczepanspl@gmail.com
 ### Thank you for visiting my profile. I look forward to connecting with others in the industry and exploring internship or job opportunities.
 ### Please feel free to take a look at my repositories and reach out to me if you have any questions or would like to collaborate on a project.
 <!---
