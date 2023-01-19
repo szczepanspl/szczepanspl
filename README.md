@@ -16,9 +16,6 @@
 3. C ⭐⭐⭐
 
 
-### Projects:
-[link](www.google.com)
-
 ### Contact:
 📧 szczepanspl@gmail.com
 ### Thank you for visiting my profile. I look forward to connecting with others in the industry and exploring internship or job opportunities.
