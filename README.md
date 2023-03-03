@@ -1,9 +1,9 @@
 # Welcome to my GitHub profile!
 ### My name is Szczepan and I am a programming enthusiast with a passion for learning and improving my skills. I am currently learning Python and C and am excited to apply my skills in a professional setting. In addition to programming, I am also interested in history and sports.
 ### My skills:
-1. Python: ⭐⭐⭐⭐⭐
-2. HTML & CSS: ⭐⭐⭐⭐
-3. C ⭐⭐⭐
+1. Python
+2. HTML & CSS
+3. C
 
 
 ### Contact:
